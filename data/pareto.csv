@@ -1,0 +1,8 @@
+label,bat_start,avg_tat,total_drain,epi
+bat=100% (Performance),100.0,43.83,27.17,0.4312
+bat=85% (Performance),85.0,44.00,23.14,0.3674
+bat=70% (Balanced),70.0,41.83,20.92,0.3321
+bat=55% (Balanced),55.0,41.83,17.10,0.2715
+bat=40% (Balanced),40.0,41.50,13.67,0.2170
+bat=25% (Survival),25.0,42.83,9.82,0.1559
+bat=10% (Survival),10.0,42.83,7.69,0.1221

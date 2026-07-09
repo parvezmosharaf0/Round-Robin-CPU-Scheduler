@@ -1,0 +1,14 @@
+time,pid,duration,mode,dvfs,battery_pct
+0,P1,10,Performance,P0-Max,96.82
+10,P2,5,Performance,P0-Max,95.48
+15,P3,10,Performance,P0-Max,90.38
+25,P4,8,Performance,P0-Max,88.56
+33,P5,10,Performance,P0-Max,85.27
+43,P6,3,Performance,P0-Max,84.51
+46,P7,10,Performance,P0-Max,80.14
+56,P8,7,Performance,P0-Max,78.44
+63,P1,2,Performance,P0-Max,75.39
+65,P3,10,Performance,P0-Max,69.85
+75,P5,5,Balanced,P1-High,67.79
+80,P7,6,Balanced,P1-High,65.84
+86,P7,2,Balanced,P1-High,63.98
